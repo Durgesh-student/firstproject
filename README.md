@@ -1,40 +1,34 @@
-  * PERSONAL RESUME WEBSITE *
+ * My First HTML Project Portfolio Resume Website *
+I've created my first portfolio resume website using pure HTML as part of my frontend learning journey. I intentionally started with HTML only to understand:
+       *Page structure
+       *Semantic tags
+       *Proper layout
 
-Hi,
-I'm Durgesh, an aspiring Frontend Developer.
-This is my personal resume website built using HTML and CSS as part of my web development learning journey.
+   
+FOR ME:
+         HTML is the bones of a website (structure)
+          CSS is the skin(design)
+         JavaScript brings activeness (interactivity)
+         
+*** To develop and manage my project, I used:
+      1)VS Code as my code editor
+      2) Git for version control
+      3)GitHub to host and manage my code repository
+      
+      *I learned how to connect VS Code with GitHub, initialize a repository, commit changes, and push my HTML project to GitHub.
+      
+** I developed this project using:
 
- * WHAT I LEARNED IN CSS :
-While building this project, I improved my understanding of several important CSS concepts.
-
- * CSS BOX MODEL :
-I learned about margin, padding, border, and the content area, and how they affect the spacing and layout of elements.
-
-* CSS SELECTORS :
-I practiced using element selectors, class selectors, ID selectors, and universal selectors to target and style different elements.
-
-* TEXT PROPERTIES :
-I worked with properties such as font-family, font-weight, text-align, text-decoration, line-height, and text-transform to control text appearance.
-
-* BACKGROUNG PROPERTIES :
-I used background-color, background-image, and background-position to enhance the visual design of the webpage.
-
-* LAYOUT AND POSITIONING SYSTEM :
-I learned about the display property, position (relative and absolute), float, and different CSS units like px, %, em, and rem.
-
-* FLEXBOX :
-I practiced using flex-direction, flex-wrap, justify-content, align-items, and flex-flow to create flexible and responsive layouts.
-
-* PROJECT STRUCTURE *
-
-* This project includes :
-index.html – Main structure of the resume
-style.css – Styling and design of the resume
-
-* Live Website :
-Personal Resume Website :
-https://durgesh-student.github.io/firstproject/
-Gmail:durgeshanusuri84@gmailo.com
-  * GOAL *
- " My goal is to continuously improve my frontend development skills and become a skilled Software Developer."
-                   ***  Thank you for visiting my project! ***
+ *VS Code for coding
+ *Git for version control
+ *GitHub to host and publish the project
+ 
+      ***View my HTML project here:
+      
+    * https://lnkd.in/gzJdC3h9
+ *Next step: enhancing the same project with CSS, and later JavaScript.
+ 
+ *Learning step by step and building strong fundamentals
+ 
+      I'm at the beginning of my frontend journey.
+                    Would love to connect with fellow learners and developers and learn together."
